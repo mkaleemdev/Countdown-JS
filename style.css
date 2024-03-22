@@ -1,0 +1,20 @@
+#countdown {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cout-div div {
+    width: 150px;
+    height: 70px;
+    background-color: rgba(255, 255, 255, 1);
+    color: #009558;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 8px rgba(0,123,255,.25) inset;
+    margin: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
