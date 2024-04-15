@@ -5,7 +5,7 @@ let Hour = document.querySelector("#Hour")
 let Day = document.querySelector("#Day")
 
 // ======== Set the date we're counting down to
-const countDownDate = new Date("Mar 31, 2024 00:00:00").getTime();
+const countDownDate = new Date("Jan 01, 2025 00:00:00").getTime();
 
 // ====== Update the countdown every 1 second
 const countdownTimer = setInterval(function () {
